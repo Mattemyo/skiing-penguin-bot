@@ -19,3 +19,9 @@ You should now be ready to go!
 Run `jupyter lab` and run the notebook in your browser!
 
 
+### Extras
+In order to detect which font is being used, use https://www.myfonts.com/WhatTheFont
+
+
+
+
